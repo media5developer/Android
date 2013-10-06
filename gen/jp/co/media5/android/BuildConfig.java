@@ -1,5 +1,5 @@
 /** Automatically generated file. DO NOT MODIFY */
-package com.example.android2;
+package jp.co.media5.android;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;

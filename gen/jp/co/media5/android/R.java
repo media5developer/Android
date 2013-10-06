@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.android2;
+package jp.co.media5.android;
 
 public final class R {
     public static final class attr {
