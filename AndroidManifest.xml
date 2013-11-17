@@ -6,22 +6,30 @@
 
     <uses-sdk
         android:minSdkVersion="8"
-        android:targetSdkVersion="17" />
+        android:targetSdkVersion="19" />
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
-        android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:label="@string/app_name">
         <activity
-            android:name="jp.co.media5.android.MainActivity"
-            android:label="@string/app_name" >
-            <intent-filter>
+            android:name=".MainActivity"
+            android:label="@string/activity_name_main">
+            <intent-filter
+                android:label="@string/app_name">
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".i.IsActivity"
+            android:label="@string/activity_name_i" />
+        <activity
+            android:name=".k.KsActivity"
+            android:label="@string/activity_name_k" />
+        <activity
+            android:name=".y.YsActivity"
+            android:label="@string/activity_name_y" />
     </application>
 
 </manifest>

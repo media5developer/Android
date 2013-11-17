@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 色定義ファイル -->
+<resources>
+
+    <!-- Yさん担当画面の色 -->
+    <color name="calc_display_bg">#90EE90</color>
+    <color name="calc_display_text">#000000</color>
+    <color name="calc_button_text">#000000</color>
+
+</resources>

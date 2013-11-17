@@ -1,7 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- サイズ定義ファイル -->
 <resources>
 
-    <!-- Default screen margins, per the Android Design guidelines. -->
-    <dimen name="activity_horizontal_margin">16dp</dimen>
-    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Yさん担当画面のサイズ -->
+    <dimen name="calc_display_text">16sp</dimen>
+    <dimen name="calc_display_padding">16dp</dimen>
+    <dimen name="calc_display_margin">4dp</dimen>
+    <dimen name="calc_button_text">20sp</dimen>
+    <dimen name="calc_button_padding">16dp</dimen>
+    <dimen name="calc_button_margin">2dp</dimen>
 
 </resources>

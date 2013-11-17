@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 文言定義ファイル（日本語） -->
+<resources>
+
+    <!-- 共通 -->
+    <string name="app_name">名称未定</string>
+
+    <!-- 画面名-->
+    <string name="activity_name_main">メイン画面</string>
+    <string name="activity_name_i">Ｉさんの画面</string>
+    <string name="activity_name_k">Ｋさんの画面</string>
+    <string name="activity_name_y">Ｙさんの画面</string>
+
+    <!-- Yさん担当画面-->
+    <string name="calc_button_zero">０</string>
+    <string name="calc_button_one">１</string>
+    <string name="calc_button_two">２</string>
+    <string name="calc_button_three">３</string>
+    <string name="calc_button_four">４</string>
+    <string name="calc_button_five">５</string>
+    <string name="calc_button_six">６</string>
+    <string name="calc_button_seven">７</string>
+    <string name="calc_button_eight">８</string>
+    <string name="calc_button_nine">９</string>
+    <string name="calc_button_point">．</string>
+    <string name="calc_button_add">＋</string>
+    <string name="calc_button_subtract">－</string>
+    <string name="calc_button_multiply">×</string>
+    <string name="calc_button_divide">÷</string>
+    <string name="calc_button_equal">＝</string>
+    <string name="calc_message_default">0.</string>
+    <string name="calc_message_zero">レイ</string>
+    <string name="calc_message_one">イチ</string>
+    <string name="calc_message_two">ニ</string>
+    <string name="calc_message_three">サン</string>
+    <string name="calc_message_four">ヨン</string>
+    <string name="calc_message_five">ゴ</string>
+    <string name="calc_message_six">ロク</string>
+    <string name="calc_message_seven">ナナ</string>
+    <string name="calc_message_eight">ハチ</string>
+    <string name="calc_message_nine">キュウ</string>
+    <string name="calc_message_point">テン</string>
+    <string name="calc_message_add">タス</string>
+    <string name="calc_message_subtract">ヒク</string>
+    <string name="calc_message_multiply">カケル</string>
+    <string name="calc_message_divide">ワル</string>
+    <string-array name="calc_messages_equal">
+        <item>ワカリマセン</item>
+        <item>ダカラ　ワカリマセン</item>
+        <item>ワカラナイッテ　イッテル　デショ！</item>
+    </string-array>
+    <string name="calc_error_dialog_button">OK</string>
+
+</resources>
