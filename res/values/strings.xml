@@ -3,7 +3,7 @@
 <resources>
 
     <!-- 共通 -->
-    <string name="app_name">No Name</string>
+    <string name="app_name">m5Apps</string>
 
     <!-- 画面名-->
     <string name="activity_name_main">Main Activity</string>
@@ -50,5 +50,15 @@
         <item>HEY YOU! I SAID, "I DON\'T KNOW"!!</item>
     </string-array>
     <string name="calc_error_dialog_button">OK</string>
+    
+    <!-- Iさん担当画面-->
+    <string name="i_button_text_dialog">ダイアログ表示</string>
+    <string name="i_dialog_title">うふふ・・・</string>
+    <string name="i_dialog_message">押しちゃイヤ</string>
+    <string name="i_dialog_ok">OK</string>
+    <string name="i_button_text_webview">営業支援システム企画書</string>
+    <string name="i_webview_url">http://www31303ue.sakura.ne.jp/eigyoSupport/doc/index.html</string>
+    <string name="i_webview_loadingMsg">そんな焦らないの・・・</string>
+    
 
 </resources>

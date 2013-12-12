@@ -34,30 +34,33 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int boot_button_i=0x7f090000;
-        public static final int boot_button_k=0x7f090001;
-        public static final int boot_button_y=0x7f090002;
-        public static final int calc_button_add=0x7f090011;
-        public static final int calc_button_divide=0x7f09000e;
-        public static final int calc_button_eight=0x7f09000b;
-        public static final int calc_button_equal=0x7f090013;
-        public static final int calc_button_five=0x7f090008;
-        public static final int calc_button_four=0x7f090007;
-        public static final int calc_button_multiply=0x7f09000f;
-        public static final int calc_button_nine=0x7f09000c;
-        public static final int calc_button_one=0x7f090004;
-        public static final int calc_button_point=0x7f090012;
-        public static final int calc_button_seven=0x7f09000a;
-        public static final int calc_button_six=0x7f090009;
-        public static final int calc_button_subtract=0x7f090010;
-        public static final int calc_button_three=0x7f090006;
-        public static final int calc_button_two=0x7f090005;
-        public static final int calc_button_zero=0x7f09000d;
-        public static final int calc_display=0x7f090003;
+        public static final int boot_button_i=0x7f090002;
+        public static final int boot_button_k=0x7f090003;
+        public static final int boot_button_y=0x7f090004;
+        public static final int calc_button_add=0x7f090013;
+        public static final int calc_button_divide=0x7f090010;
+        public static final int calc_button_eight=0x7f09000d;
+        public static final int calc_button_equal=0x7f090015;
+        public static final int calc_button_five=0x7f09000a;
+        public static final int calc_button_four=0x7f090009;
+        public static final int calc_button_multiply=0x7f090011;
+        public static final int calc_button_nine=0x7f09000e;
+        public static final int calc_button_one=0x7f090006;
+        public static final int calc_button_point=0x7f090014;
+        public static final int calc_button_seven=0x7f09000c;
+        public static final int calc_button_six=0x7f09000b;
+        public static final int calc_button_subtract=0x7f090012;
+        public static final int calc_button_three=0x7f090008;
+        public static final int calc_button_two=0x7f090007;
+        public static final int calc_button_zero=0x7f09000f;
+        public static final int calc_display=0x7f090005;
+        public static final int i_button_dialog=0x7f090000;
+        public static final int i_button_webview=0x7f090001;
     }
     public static final class layout {
-        public static final int activity_main=0x7f030000;
-        public static final int activity_y=0x7f030001;
+        public static final int activity_i=0x7f030000;
+        public static final int activity_main=0x7f030001;
+        public static final int activity_y=0x7f030002;
     }
     public static final class string {
         public static final int activity_name_i=0x7f060002;
@@ -107,6 +110,16 @@ public final class R {
         public static final int calc_message_three=0x7f060019;
         public static final int calc_message_two=0x7f060018;
         public static final int calc_message_zero=0x7f060016;
+        /**  Iさん担当画面
+ Iさん担当画面
+         */
+        public static final int i_button_text_dialog=0x7f060026;
+        public static final int i_button_text_webview=0x7f06002a;
+        public static final int i_dialog_message=0x7f060028;
+        public static final int i_dialog_ok=0x7f060029;
+        public static final int i_dialog_title=0x7f060027;
+        public static final int i_webview_loadingMsg=0x7f06002c;
+        public static final int i_webview_url=0x7f06002b;
     }
     public static final class style {
         public static final int calc_button=0x7f080001;
